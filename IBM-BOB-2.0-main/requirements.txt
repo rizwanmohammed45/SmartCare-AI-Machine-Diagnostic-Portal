@@ -1,7 +1,0 @@
-fastapi
-uvicorn[standard]
-pydantic
-python-dotenv
-ibm-watsonx-ai
-qrcode[pil]
-pillow
